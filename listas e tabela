@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <title>Listas e Tabelas</title>
+
+</head>
+<body>
+    <div class="content">
+    <h1>Extraindo Arquivos</h1>
+    <div class="lista">
+        <ul>
+            <li>
+                Procure o arquivo desejado
+            </li>
+    
+            <li>
+                Clique com o botão direito 
+            </li>
+    
+            <li>
+                E vá em 'extrair aqui'
+            </li>
+
+            <li>
+                Agora é só aguardar
+            </li>
+        </ul>
+    </div>
+    </div>
+
+    <div class="contentT">
+    <h1>Lista pessoal de melhores jogos</h1>
+    <div class="lista">
+        <ol>
+            <li>
+                Resident evil 4
+            </li>
+
+            <li>
+                Grand Theft Auto San Andreas
+            </li>
+
+            <li>
+                Far Cry 3
+            </li>
+
+        </ol>
+    </div>
+    </div>
+        
+    <div class="content">
+        <h1>Menção Honrosa</h1>
+        <div class="lista">
+        <ul>
+            <li>
+                <ul>
+                    <li>To the Moon</li>
+                    <li>Ori</li>
+                    <li>Hollow Knight</li>
+                </ul>
+            </li>    
+        </ul>    
+        </div>
+    </div>
+    
+    
+    
+    
+    <table border="1" class="tabela" >
+            <thead>
+
+                <th>Jogo</th>
+                <th>Empresa</th>
+                <th>Meta Critic</th>
+
+            </thead>
+            
+            <tr>
+                <td>Resident evil 4</td>
+                <td>Capcom</td>
+                <td>96</td>
+
+            </tr>
+
+            <tr>
+                <td>Grand Theft Auto San Andreas</td>
+                <td>Rockstar North </td>
+                <td>95</td>
+            
+            </tr>
+
+            <tfoot>
+                <td>Far Cry 3</td>
+                <td>Ubisoft Montreal</td>
+                <td>88</td>
+
+            </tfoot>
+
+        </table>
+    
+
+
+
+    
+
+
+
+
+
+
+</body>
+</html>
